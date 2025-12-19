@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ysfbilir22@gmail.com**
 
+- 🎮 try our game on itch  https://factorim.itch.io/factorim
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yusufibilir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufibilir" height="30" width="40" /></a>

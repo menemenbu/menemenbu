@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menemenbu&label=Profile%20views&color=0e75b6&style=flat" alt="menemenbu" /> </p>
 
-- 🔭 I’m currently working on **Factorim**
+- 🔭 I’m currently working on **machine learning**
 
 - 🌱 I’m currently learning **python and c++**
 
